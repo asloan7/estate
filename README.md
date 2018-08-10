@@ -2,7 +2,7 @@ Estate (Terraform UX)
 =====================
 
 
-**Latin:** Status **Old French:** estat **English:** Esate
+**Latin:** Status **Old French:** estat **English:** Estate
 
 > a piece of landed property or status of an owner, with respect to property, especially one of large extent with an elaborate house on it
 
